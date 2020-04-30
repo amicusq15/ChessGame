@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{824B19C9-5413-4364-B5E8-EAD606448603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessMVC", "ChessMVC\ChessMVC.csproj", "{6D8B3A9D-C21C-4FCD-A205-C99B0F6C8024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessMoves", "ChessMoves\ChessMoves.csproj", "{CA91029A-CC7B-4AA6-B46E-53F100D3C8F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824B19C9-5413-4364-B5E8-EAD606448603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824B19C9-5413-4364-B5E8-EAD606448603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824B19C9-5413-4364-B5E8-EAD606448603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824B19C9-5413-4364-B5E8-EAD606448603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8B3A9D-C21C-4FCD-A205-C99B0F6C8024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8B3A9D-C21C-4FCD-A205-C99B0F6C8024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8B3A9D-C21C-4FCD-A205-C99B0F6C8024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8B3A9D-C21C-4FCD-A205-C99B0F6C8024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA91029A-CC7B-4AA6-B46E-53F100D3C8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA91029A-CC7B-4AA6-B46E-53F100D3C8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA91029A-CC7B-4AA6-B46E-53F100D3C8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA91029A-CC7B-4AA6-B46E-53F100D3C8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F17A765C-D7BB-4F74-854C-1149780311C8}
+	EndGlobalSection
+EndGlobal
